@@ -1,0 +1,8 @@
+Bogie
+Cow 
+Dog
+Elephant
+Goat
+Human
+Monkey
+Vehicle
